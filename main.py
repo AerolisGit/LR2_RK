@@ -1,4 +1,3 @@
-import random
 import village
 import basement
 import lake
